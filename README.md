@@ -23,6 +23,10 @@ This project showcases how to use OOP to model shapes, process user‑input, and
 - Possibly a menu or prompt interface for users to choose shape type and operations  
 
 ---
+## Screenshots
+
+- Refer to /images folder for screenshots
+- UML diagram included
 
 ## Getting Started
 
